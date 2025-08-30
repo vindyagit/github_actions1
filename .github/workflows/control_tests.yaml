@@ -39,7 +39,7 @@ jobs:
 
         run: |
 
-          pytest /home/ubuntu/github_actions1/file_test.py
+          pytest 
 
 
       - name: Run flake8
