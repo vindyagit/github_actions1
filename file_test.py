@@ -13,7 +13,7 @@ def test_calc_substraction():
 def test_calc_multiply():
     output = 2 * 4
     assert output == 8
-  
+
 
 def test_coucou():
     output = 'hello'
